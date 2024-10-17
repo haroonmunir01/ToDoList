@@ -19,5 +19,4 @@ void main() {
   tasks.removeTask(task2);
   tasks.removeTask(task1);
   tasks.printTask();
-
 }
